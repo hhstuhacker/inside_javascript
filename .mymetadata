@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="inside_javascript"
+  id="myeclipse.1359517725281"
+  context-root="/inside_javascript"
+  j2ee-spec="6.0"
+  archive="inside_javascript.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
