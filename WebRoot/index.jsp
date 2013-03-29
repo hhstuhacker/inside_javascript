@@ -11,7 +11,7 @@
 	<head>
 		<base href="<%=basePath%>">
 
-		<title>My JSP 'index.jsp' starting page</title>
+		<title>深入JavaScript</title>
 	</head>
 
 	<body>
