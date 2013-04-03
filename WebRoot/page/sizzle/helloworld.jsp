@@ -11,10 +11,11 @@
 	<head>
 		<base href="<%=basePath%>">
 
-		<title>深入JavaScript</title>
+		<title>Sizzle</title>
+		
 	</head>
 
-	<body id="body">
+	<body>
 		<div id="qunit"></div>
 
 		<!-- Test HTML -->
@@ -370,9 +371,8 @@ Z</textarea>
 		<br id="last" />
 
 
-		<script type="text/javascript" src="js/libary/qunit.js"></script>
+
 		<script type="text/javascript" src="js/libary/sizzle.js"></script>
 		<script type="text/javascript" src="js/custom/sizzle/helloworld.js"></script>
-
 	</body>
 </html>
